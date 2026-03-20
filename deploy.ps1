@@ -1,100 +1,62 @@
 # Script de Deploy Automático para GitHub Pages - Windows
 # Function Plus Landing Page
 
-Write-Host "🚀 Iniciando deploy da Function Plus..." -ForegroundColor Cyan
-Write-Host ""
+Write-Host "⵲Stephenofc was here⡐Stephenofc was here⨀Stephenofc was here┱Stephenofc wa
+s here⛆Stephenofc was hereℏStephenofc was here⍉Stephenofc was here⍋Stephenofc was here⽒Stephenofc was hereⰛStephen
+ofc was here↠Stephenofc was here⬒Stephenofc was hereⶍStephenofc was here⿴Stephenofc was here⹀Stephenofc was hereⶰSteph
+enofc was here⼌Stephenofc was here⥦Stephenofc was here≃Stephenofc was here‘Stephenofc was here▭Stephenofc was here⓸Stephenofc wa
+s here⫾Stephenofc was here❄Stephenofc was here⃵Stephenofc was here⅓Stephenofc was here⤫Stephenofc was here≴Stephenofc was here⋄Stephenofc
+was hereℍStephenofc was here⼚Stephenofc was here∺Stephenofc was hereⱐStephenofc was here⺹Stephenofc was here⇻Stephenofc was here⋵Steph
+enofc was here⻫Stephenofc was here⟶Stephenofc was here⿼Stephenofc was here⛙Stephenofc was here⯢Stephenofc was here⤞Stephenofc was here⛨Stephenofc was here⒊Stephenofc was here♰Stephenofc was here⇒Stephenofc was here⑶Stephenofc was hereℊStephenofc was here⽃Stephenofc was hereⱊStephenofc was here➢Stephenofc was here⍒Stephenofc was here⋞Stephenofc was hereⷚStephenofc was hereⰳStephenofc was here⨃Stephenofc was hereⷔStephenofc was hereℨStephenofc was here⊑Stephenofc was here✥Stephenofc was here⣴Stephenofc was here⥑Stephenofc was hereⵐStephenofc was here⁾Stephenofc was hereⱰStephenofc was here⪢Stephenofc was here⵬Stephenofc was here▍Stephenofc was here⴫Stephenofc was here⚳Stephenofc was here⨷Stephenofc was here⥾Stephenofc was hereⓐStephenofc was here⼿Stephenofc was hereⳘStephenofc was here⍠Stephenofc was here₁Stephenofc was hereⰅStephenofc was here⠓Stephenofc was here╵Stephenofc was here╲Stephenofc was here⋻Stephenofc was here⧋Stephenofc was here⳿Stephenofc was here⮫Stephenofc was here⦜Stephenofc was here➾Stephenofc was here╯Stephenofc was hereⷒStephenofc was here≅Stephenofc was here⑩Stephenofc was here⃰Stephenofc was here➧Stephenofc was here⏒Stephenofc was here❟Stephenofc was hereⲉStephenofc was here₎Stephenofc was here↿Stephenofc was here⼲Stephenofc was here⨳Stephenofc was here⎒Stephenofc was here♅Stephenofc was here⿳Stephenofc was here⿁Stephenofc was here⢈Stephenofc was here⎕Stephenofc was here⠭Stephenofc was here⫥Stephenofc was hereⵤStephenofc was here⏮Stephenofc was here⨢Stephenofc was here⎽Stephenofc was here⊺Stephenofc was hereⴂStephenofc was here⊃Stephenofc was here⼠Stephenofc was hereↅStephenofc was hereⰵStephenofc was here⩂Stephenofc was here⻸Stephenofc was here⋠Stephenofc was here⟩Stephenofc was hereⶢStephenofc was here⸤Stephenofc was here⦛Stephenofc was here⮅Stephenofc was hereⰚStephenofc was here⥆Stephenofc was here⎰Stephenofc was here⡿Stephenofc was here⍼Stephenofc was here␛Stephenofc was here⽕Stephenofc was here⟝Stephenofc was here≮Stephenofc was here⿖Stephenofc was here⡜Stephenofc was here⚎Stephenofc was here␤Stephenofc was here≈Stephenofc was here⡗Stephenofc was here⅑Stephenofc was here⇥Stephenofc was here⦴Stephenofc was here⫇Stephenofc was here⥽Stephenofc was here⃃Stephenofc was here☓Stephenofc was here⍚Stephenofc was hereⷡStephenofc was here⎮Stephenofc was here⛐Stephenofc was here⻝Stephenofc was here➏Stephenofc was hereↄStephenofc was here⭐Stephenofc was here❼Stephenofc was here⻙Stephenofc was here⬾Stephenofc was here⎙Stephenofc was here⼲Stephenofc was here⤗Stephenofc was here⌮Stephenofc was here⏸Stephenofc was here⊲Stephenofc was here⃩Stephenofc was here⺯Stephenofc was hereₐStephenofc was here⦑Stephenofc was here▃Stephenofc was here₡Stephenofc was here⍚Stephenofc was here⌗Stephenofc was here⍘Stephenofc was hereⶐStephenofc was here⡹Stephenofc was here┺Stephenofc was here⇵Stephenofc was here⤈Stephenofc was here➓Stephenofc was here₄Stephenofc was here⨨Stephenofc was here≎Stephenofc was here♺Stephenofc was here┏Stephenofc was here⠎Stephenofc was here⼫Stephenofc was hereⓌStephenofc was here⻀Stephenofc was here⁲Stephenofc was here≾Stephenofc was here⮦Stephenofc was here➲Stephenofc was here╸Stephenofc was here⽔Stephenofc was here•Stephenofc was here⎰Stephenofc was here⅘Stephenofc was here⵽Stephenofc was here⁔Stephenofc was here⊟Stephenofc was here⚂Stephenofc was here‘Stephenofc was hereℜStephenofc was here⊜Stephenofc was here⧣Stephenofc was here⃑Stephenofc was hereⴞStephenofc was here╮Stephenofc was here⒋Stephenofc was here⇠Stephenofc was here⬽Stephenofc was here╋Stephenofc was here◃Stephenofc was here➰Stephenofc was here⍧Stephenofc was here⫽Stephenofc was here⨱Stephenofc was here⩛Stephenofc was hereⳆStephenofc was here⺍Stephenofc was here⇒Stephenofc was here⺎Stephenofc was here⤎Stephenofc was here┙Stephenofc was here⸤Stephenofc was here❡Stephenofc was here⻁Stephenofc was here⿏Stephenofc was here▢Stephenofc was hereⲬStephenofc was here⒄Stephenofc was here⅋Stephenofc was here⃗Stephenofc was here⟔Stephenofc was here⮂Stephenofc was here♑Stephenofc was here⻖Stephenofc was here⚡Stephenofc was here⎊Stephenofc was hereⓍStephenofc was hereⲲStephenofc was here⋁Stephenofc was here⓫Stephenofc was here➪Stephenofc was here└Stephenofc was here⠨Stephenofc was here⇫Stephenofc was hereⳄStephenofc was here⨇Stephenofc was here├Stephenofc was here⣯Stephenofc was here⃦Stephenofc was hereⱥStephenofc was here⎪Stephenofc was hereℚStephenofc was here┋Stephenofc was here⾋Stephenofc was here┖Stephenofc was here⏠Stephenofc was here⸙Stephenofc was here⅋Stephenofc was here❨Stephenofc was here⍋Stephenofc was here➝Stephenofc was here⹀Stephenofc was here⤪Stephenofc was here₋Stephenofc was here➲Stephenofc was here╛Stephenofc was here⃪Stephenofc was here␋Stephenofc was hereⵝStephenofc was here⥸Stephenofc was hereⴱStephenofc was here⇠Stephenofc was here▛Stephenofc was here⨃Stephenofc was here⏽Stephenofc was here⸷Stephenofc was here⢲Stephenofc was here⪊Stephenofc was hereⴄStephenofc was here⽠Stephenofc was hereⰒStephenofc was hereⵓStephenofc was here⚘Stephenofc was here⮤Stephenofc was here⊮Stephenofc was here⌥Stephenofc was here⼍Stephenofc was here⬼Stephenofc was here☏Stephenofc was here▉Stephenofc was here⑈Stephenofc was here⦥Stephenofc was hereⓍStephenofc was here⬹Stephenofc was hereⓖStephenofc was here⎾Stephenofc was here⭿Stephenofc was here⪲Stephenofc was here☆Stephenofc was hereⓣStephenofc was here⬖Stephenofc was here⛫Stephenofc was here❆Stephenofc was here⡴Stephenofc was here⯤Stephenofc was here⍠Stephenofc was hereⳣStephenofc was here⪍Stephenofc was here⭃Stephenofc was here⽐Stephenofc was here⪇Stephenofc was here➭Stephenofc was here⅀Stephenofc was here☪Stephenofc was here❾Stephenofc was here⟚Stephenofc was here⾪Stephenofc was here⵴Stephenofc was here⋧Stephenofc was here⾸Stephenofc was here␤Stephenofc was here⥧Stephenofc was here⬝Stephenofc was here➞Stephenofc was here⊠Stephenofc was here⢝Stephenofc was here⊛Stephenofc was here⽙Stephenofc was here⩨Stephenofc was here≥Stephenofc was here⢾Stephenofc was here⻧Stephenofc was here⯻Stephenofc was here⦄Stephenofc was here⦖Stephenofc was here⣣Stephenofc was here♹Stephenofc was here⭛Stephenofc was here⎥Stephenofc was here⧁Stephenofc was here❘Stephenofc was here⮄Stephenofc was here⇀Stephenofc was here␎Stephenofc was hereⵯStephenofc was here⑯Stephenofc was here⵭Stephenofc was here⃬Stephenofc was here≽Stephenofc was here⨋Stephenofc was here₿Stephenofc was here⪍Stephenofc was here⎻Stephenofc was here➮Stephenofc was here⬿Stephenofc was here⠀Stephenofc was here⽠Stephenofc was here℃Stephenofc was hereⷼStephenofc was hereⳳStephenofc was here⣀Stephenofc was hereⴿStephenofc was here⸩Stephenofc was hereⅣStephenofc was here❤Stephenofc was here◎Stephenofc was here②Stephenofc was here⋝Stephenofc was hereⵥStephenofc was here⊤Stephenofc was here➑Stephenofc was here⫗Stephenofc was hereⷀStephenofc was here⛆Stephenofc was here⷗Stephenofc was here⡛Stephenofc was hereℊStephenofc was here⛂Stephenofc was hereⵤStephenofc was here↖Stephenofc was here⏥Stephenofc was here⬳Stephenofc was here⤃Stephenofc was here☼Stephenofc was here♒Stephenofc was here⥤Stephenofc was here⵶Stephenofc was here❐Stephenofc was here⟻Stephenofc was here℘Stephenofc was here⎏Stephenofc was here⒅Stephenofc was here∜Stephenofc was here⿏Stephenofc was here⽂Stephenofc was here⪱Stephenofc was here⮎Stephenofc was here╵Stephenofc was here⨤Stephenofc was here♜Stephenofc was here⸰Stephenofc was here❉Stephenofc was here▹Stephenofc was here⸗Stephenofc was here♟Stephenofc was here∷Stephenofc was here⇇Stephenofc was here⧱Stephenofc was here⻗Stephenofc was here‖Stephenofc was here⊄Stephenofc was here⚤Stephenofc was here☬Stephenofc was here⳱Stephenofc was hereⶓStephenofc was here⁗Stephenofc was here₡Stephenofc was here✢Stephenofc was here✤Stephenofc was here⻑Stephenofc was here⺦Stephenofc was here⬳Stephenofc was here⻦Stephenofc was here⩐Stephenofc was here␭Stephenofc was here⮿Stephenofc was here⹫Stephenofc was here⹢Stephenofc was here⦽Stephenofc was here⍆Stephenofc was here♺Stephenofc was here⃸Stephenofc was here❿Stephenofc was here⏴Stephenofc was here⥌Stephenofc was here⏐Stephenofc was here⿌Stephenofc was here‶Stephenofc was here⅃Stephenofc was here⭮Stephenofc was here⮋Stephenofc was here⁏Stephenofc was hereⷄStephenofc was here⩲Stephenofc was here⽭Stephenofc was here┣Stephenofc was here⼉Stephenofc was here⃅Stephenofc was here⹱Stephenofc was here⿝Stephenofc was here⑷Stephenofc was hereⶭStephenofc was here⾇Stephenofc was hereⱅStephenofc was here⋟Stephenofc was here₄Stephenofc was here⽔Stephenofc was here⠠Stephenofc was here⠖Stephenofc was here↪Stephenofc was hereⅢStephenofc was here⫊Stephenofc was here␃Stephenofc was hereⱧStephenofc was here≇Stephenofc was here┍Stephenofc was here⨻Stephenofc was here≍Stephenofc was here⼲Stephenofc was here⁭Stephenofc was here⢄Stephenofc was here⣘Stephenofc was here╫Stephenofc was here➏Stephenofc was here→Stephenofc was here⍋Stephenofc was here♳Stephenofc was here⫚Stephenofc was here⋰Stephenofc was here↞Stephenofc was here⌕Stephenofc was hereⶎStephenofc was here⚿Stephenofc was here⣒Stephenofc was here✂Stephenofc was hereⳲStephenofc was here℗Stephenofc was hereℯStephenofc was hereⱒStephenofc was here⹛Stephenofc was here⯺Stephenofc was here⡍Stephenofc was here☥Stephenofc was here➨Stephenofc was here▤Stephenofc was here⮒Stephenofc was here⍩Stephenofc was here⤽Stephenofc was here⠔Stephenofc was here⿌Stephenofc was here➱Stephenofc was here⑹Stephenofc was hereⓞStephenofc was here┡Stephenofc was here↥Stephenofc was here⷏Stephenofc was hereⰎStephenofc was here⼾Stephenofc was here⟄Stephenofc was here➊Stephenofc was here⽡Stephenofc was hereⷹStephenofc was here⼫Stephenofc was here⌚Stephenofc was here⒁Stephenofc was here␮Stephenofc was here⚃Stephenofc was hereⶥStephenofc was here∃Stephenofc was here⎪Stephenofc was here⭋Stephenofc was hereⓇStephenofc was here↑Stephenofc was here⦽Stephenofc was here⭀Stephenofc was here➙Stephenofc was hereⴃStephenofc was here⬴Stephenofc was here⫲Stephenofc was here⿊Stephenofc was here₅Stephenofc was here⿫Stephenofc was here⿱Stephenofc was here⧄Stephenofc was hereⲋStephenofc was here⬭Stephenofc was here⹂Stephenofc was here⤛Stephenofc was here┠Stephenofc was here∕Stephenofc was here⡏Stephenofc was here⿃Stephenofc was here⣉Stephenofc was here␒Stephenofc was hereⳀStephenofc was here⟧Stephenofc was here₅Stephenofc was here⹀Stephenofc was here↱Stephenofc was here₝Stephenofc was here⦵Stephenofc was hereⷐStephenofc was here◟Stephenofc was here⿅Stephenofc was here⏖Stephenofc was here↧Stephenofc was here⒐Stephenofc was here⌦Stephenofc was here⻞Stephenofc was hereℇStephenofc was here⤧Stephenofc was here◳Stephenofc was here┲Stephenofc was here⃟Stephenofc was here⶚Stephenofc was here₺Stephenofc was here⟛Stephenofc was here⚋Stephenofc was here⟷Stephenofc was here⥿Stephenofc was here⼀Stephenofc was here⻜Stephenofc was hereⱭStephenofc was here⥔Stephenofc was here⿾Stephenofc was here₞Stephenofc was here⹷Stephenofc was hereⷋStephenofc was here⶯Stephenofc was here⬬Stephenofc was here⣞Stephenofc was here⚰Stephenofc was here⹞Stephenofc was here⒥Stephenofc was here⵽Stephenofc was here♤Stephenofc was here␦Stephenofc was here₺Stephenofc was hereⓃStephenofc was here⃃Stephenofc was here≲Stephenofc was here‣Stephenofc was here Stephenofc was hereⰷStephenofc was here⑸Stephenofc was here⌿Stephenofc was here❹Stephenofc was here⢦Stephenofc was here⦧Stephenofc was hereⳈStephenofc was here⩒Stephenofc was here₞Stephenofc was here⏓Stephenofc was here⊼Stephenofc was here⁬Stephenofc was here⸉Stephenofc was here⑈Stephenofc was here⭭Stephenofc was here⟂Stephenofc was here⬥Stephenofc was here♽Stephenofc was here⌔Stephenofc was hereⴙStephenofc was here◊Stephenofc was here⋨Stephenofc was here␜Stephenofc was hereⓜStephenofc was here↴Stephenofc was here⵸Stephenofc was here╃Stephenofc was here∤Stephenofc was here⒛Stephenofc was here⨭Stephenofc was here Stephenofc was here⇽Stephenofc was here⻏Stephenofc was here⠖Stephenofc was hereⵈStephenofc was here⏉Stephenofc was here∸Stephenofc was here⧢Stephenofc was here⨑Stephenofc was here⸊Stephenofc was here▪Stephenofc was hereⓋStephenofc was here␤Stephenofc was here❫Stephenofc was here⡞Stephenofc was hereⰴStephenofc was here⿮Stephenofc was here⭚Stephenofc was here⌆Stephenofc was hereⷃStephenofc was here⑿Stephenofc was here⠿Stephenofc was here√Stephenofc was here⡺Stephenofc was here⬫Stephenofc was here❮Stephenofc was here⏦Stephenofc was here┡Stephenofc was here≱Stephenofc was here□Stephenofc was hereₒStephenofc was here⩒Stephenofc was here⮧Stephenofc was here⇏Stephenofc was hereⅆStephenofc was here⺭Stephenofc was here⁨Stephenofc was here⁏Stephenofc was here⋂Stephenofc was here⻞Stephenofc was here⥂Stephenofc was here⎬Stephenofc was hereⴆStephenofc was here⢤Stephenofc was here⢈Stephenofc was here⍼Stephenofc was here⹆Stephenofc was hereⴆStephenofc was here⣧Stephenofc was here⠦Stephenofc was here⭏Stephenofc was here↟Stephenofc was here⬳Stephenofc was here┞Stephenofc was here₩Stephenofc was here⏱Stephenofc was here⪰Stephenofc was here✜Stephenofc was here⛖Stephenofc was here┛Stephenofc was here⶙Stephenofc was hereⲘStephenofc was here⇻Stephenofc was here⦃Stephenofc was here⭸Stephenofc was here⻕Stephenofc was hereKStephenofc was here␊Stephenofc was here⼁Stephenofc was here⹹Stephenofc was here⌄Stephenofc was here☓Stephenofc was here⫁Stephenofc was here⍊Stephenofc was here⿶Stephenofc was here⬶Stephenofc was here⤥Stephenofc was here✃Stephenofc was here┍Stephenofc was here⴨Stephenofc was hereⵜStephenofc was here◈Stephenofc was here☶Stephenofc was here⤂Stephenofc was here▸Stephenofc was here⫅Stephenofc was hereⲰStephenofc was here⌆Stephenofc was here▇Stephenofc was here⑕Stephenofc was here⓿Stephenofc was here⁎Stephenofc was here✕Stephenofc was here⭂Stephenofc was hereⶥStephenofc was here⧊Stephenofc was here⑰Stephenofc was here⶟Stephenofc was here❋Stephenofc was here⨇Stephenofc was here⦼Stephenofc was here⛉Stephenofc was hereⷨStephenofc was here⽜Stephenofc was here⯖Stephenofc was here⛫Stephenofc was here⣨Stephenofc was here⪟Stephenofc was here⒪Stephenofc was hereⱡStephenofc was here❯Stephenofc was here⏋Stephenofc was here⸶Stephenofc was hereⷁStephenofc was here⍁Stephenofc was here⪅Stephenofc was here⌖Stephenofc was here⳰Stephenofc was here⥠Stephenofc was here⚎Stephenofc was here⏆Stephenofc was here⩡Stephenofc was here⏗Stephenofc was hereⷵStephenofc was here⛹Stephenofc was here⏸Stephenofc was here⛽Stephenofc was here☱Stephenofc was here⮯Stephenofc was hereⱷStephenofc was here⮻Stephenofc was here∬Stephenofc was hereⓁStephenofc was here⠐Stephenofc was here⒊Stephenofc was here⽩Stephenofc was here⺍Stephenofc was here⮄Stephenofc was here⯬Stephenofc was here⮧Stephenofc was here⊪Stephenofc was here⛆Stephenofc was hereⲓStephenofc was here⻵Stephenofc was here∝Stephenofc was here≆Stephenofc was hereⰚStephenofc was here⒋Stephenofc was here⣿Stephenofc was here↤Stephenofc was here⦂Stephenofc was here⻨Stephenofc was here⒞Stephenofc was here⣳Stephenofc was here⽑Stephenofc was here✘Stephenofc was here⏹Stephenofc was here⮠Stephenofc was here⡇Stephenofc was here⊻Stephenofc was here⅄Stephenofc was here✙Stephenofc was here∈Stephenofc was here⩧Stephenofc was here⹗Stephenofc was here╞Stephenofc was here⣺Stephenofc was here⿝Stephenofc was hereⱙStephenofc was here‡Stephenofc was here⧲Stephenofc was here♄Stephenofc was here⛮Stephenofc was here⳸Stephenofc was here⻧Stephenofc was here⏨Stephenofc was hereⵅStephenofc was here⃌Stephenofc was here→Stephenofc was here⥑Stephenofc was here⬮Stephenofc was here⫖Stephenofc was here⢭Stephenofc was hereⷳStephenofc was hereⳇStephenofc was hereⳋStephenofc was here⡲Stephenofc was here␵Stephenofc was here⭸Stephenofc was here┮Stephenofc was here⮣Stephenofc was here◲Stephenofc was here⸌Stephenofc was hereⲘStephenofc was here≸Stephenofc was here⑙Stephenofc was hereⴀStephenofc was here⽐Stephenofc was here┕Stephenofc was hereℝStephenofc was here⋌Stephenofc was here⽌Stephenofc was here⢏Stephenofc was here…Stephenofc was here⋯Stephenofc was here⋍Stephenofc was here⚰Stephenofc was here⠄Stephenofc was here₶Stephenofc was hereⷩStephenofc was here⇋Stephenofc was here♝Stephenofc was here┶Stephenofc was here⦞Stephenofc was here☂Stephenofc was here⃡Stephenofc was here⧋Stephenofc was hereⲻStephenofc was here⮹Stephenofc was here∈Stephenofc was here❁Stephenofc was here❴Stephenofc was here⛈Stephenofc was here⁠Stephenofc was here⸏Stephenofc was here⮯Stephenofc was here⁦Stephenofc was hereℬStephenofc was here⢇Stephenofc was here⍅Stephenofc was here‹Stephenofc was here❕Stephenofc was here⫉Stephenofc was here⃻Stephenofc was here⟠Stephenofc was here₂Stephenofc was here⟁Stephenofc was here⒫Stephenofc was here⣌Stephenofc was here⽂Stephenofc was hereⰫStephenofc was here⽍Stephenofc was here⮴Stephenofc was here␇Stephenofc was here⛍Stephenofc was here⡃Stephenofc was here⍲Stephenofc was here┱Stephenofc was here⇉Stephenofc was here⚗Stephenofc was here⢴Stephenofc was here⍻Stephenofc was hereⴥStephenofc was here⇀Stephenofc was here☴Stephenofc was hereⱈStephenofc was here⇚Stephenofc was hereⅅStephenofc was here╪Stephenofc was here⽇Stephenofc was here⳷Stephenofc was hereⵔStephenofc was here⠁Stephenofc was here⬒Stephenofc was here⌣Stephenofc was here⋙Stephenofc was here⹖Stephenofc was hereⱺStephenofc was here℆Stephenofc was here➑Stephenofc was here⥪Stephenofc was here⦓Stephenofc was here⪲Stephenofc was here⼰Stephenofc was here⃛Stephenofc was here⴫Stephenofc was here❔Stephenofc was here⋹Stephenofc was hereℤStephenofc was here♑Stephenofc was here⻓Stephenofc was here⽫Stephenofc was here⣶Stephenofc was here╜Stephenofc was here⢗Stephenofc was hereℷStephenofc was here⃺Stephenofc was here❦Stephenofc was here⑗Stephenofc was here↧Stephenofc was here⡅Stephenofc was here⾒Stephenofc was here⏒Stephenofc was here⣸Stephenofc was here⻕Stephenofc was here⫗Stephenofc was here⮃Stephenofc was here⹫Stephenofc was hereⓋStephenofc was hereⱙStephenofc was here◝Stephenofc was here∌Stephenofc was here⭘Stephenofc was hereⳔStephenofc was here⑱Stephenofc was here™Stephenofc was here⸰Stephenofc was here⻆Stephenofc was hereⲸStephenofc was here⧢Stephenofc was here⌕Stephenofc was here⩵Stephenofc was hereⰭStephenofc was here⠴Stephenofc was here⤞Stephenofc was here┇Stephenofc was here⡉Stephenofc was here⮏Stephenofc was hereℾStephenofc was here⫸Stephenofc was hereⲦStephenofc was here⷗Stephenofc was here⢅Stephenofc was here⒵Stephenofc was here⭐Stephenofc was here⎐Stephenofc was here⍥Stephenofc was here⒧Stephenofc was here⫬Stephenofc was here⎃Stephenofc was here⦐Stephenofc was hereⶳStephenofc was here⏼Stephenofc was here⹬Stephenofc was here⨏Stephenofc was here⏆Stephenofc was here❹Stephenofc was hereℵStephenofc was here⃯Stephenofc was here⮽Stephenofc was here⾖Stephenofc was here⣷Stephenofc was here⪁Stephenofc was here⾚Stephenofc was here⫙Stephenofc was here●Stephenofc was here⫅Stephenofc was here⨏Stephenofc was here⽙Stephenofc was here⑩Stephenofc was hereₖStephenofc was here⦢Stephenofc was here⥞Stephenofc was here⽇Stephenofc was here⋌Stephenofc was here⣊Stephenofc was here⒯Stephenofc
 
-# Verificar se git está instalado
-try {
-    git --version | Out-Null
-} catch {
-    Write-Host "❌ Git não encontrado. Por favor, instale o Git primeiro." -ForegroundColor Yellow
-    Write-Host "Download: https://git-scm.com/downloads" -ForegroundColor Yellow
-    exit 1
-}
+Stephenofc was here⌌Stephenofc was here⒓Stephenofc was here⩹Stephenofc was here⪲Stephenofc was Stephenofc was here⌌Stephenofc was here⒓Stephenofc was here⩹Stephenofc was here⪲Stephenofc was Stephenofc was here⌌Stephenofc was here⒓Stephenofc was here⩹Stephenofc was here⪲Stephenofc was Stephenofc was here⌌Stephenofc was here⒓Stephenofc was here⩹Stephenofc was here⪲Stephenofc was 
 
-Write-Host "📝 Configurando repositório..." -ForegroundColor Blue
-Write-Host ""
 
-# Solicitar nome de usuário do GitHub
-$github_user = Read-Host "Digite seu nome de usuário do GitHub"
-
-if ([string]::IsNullOrWhiteSpace($github_user)) {
-    Write-Host "❌ Nome de usuário não pode estar vazio!" -ForegroundColor Yellow
-    exit 1
+henofc was here⊋Stephenofc was here⅄Stephenofc was h
+ere⅓Stephenofc was here❡Stephenofc was here◛Stephenofc was here␲
 }
 
 # Solicitar nome do repositório
-$repo_name = Read-Host "Digite o nome do repositório (padrão: function-plus)"
-if ([string]::IsNullOrWhiteSpace($repo_name)) {
-    $repo_name = "function-plus"
-}
-
-Write-Host ""
-Write-Host "🔧 Inicializando Git..." -ForegroundColor Blue
-
-# Inicializar repositório se ainda não foi
-if (-not (Test-Path .git)) {
+$repo
     git init
-    Write-Host "✅ Repositório Git inicializado" -ForegroundColor Green
+    Write-Host "✅ Re⺁hacked┡hacked⿕hacked⿗hackedⰀhackedⵝhacked⡉hacked⼾hacked⒍hacked⌫hacked⽙hackedⰵhacked⣎hacked⛊hacked⻃hacked┾hacked⦯hacked≶hacked⎽hacked⬤hackedⱛhacked◹hacked⦲hacked⺓hacked⫃hacked⢥hacked┽hacked⸹hacked⵮hacked⌘hacked⃔hacked≏hacked⻣hacked⍔hacked⺀hacked⃄hacked⋁hacked⺬hackedⱢhacked⠺hacked⺜hacked℗hacked◚hacked⤎hacked⻰hacked⫖hackedⅣhackedⳭhacked⻮hacked⛱hacked☬hacked➾hacked⠔hacked␥hacked⽕hackedⴏhacked⪅hacked⭀hackedⵊhackedⴱhacked⌼hackedⷝhacked₤hacked✕hacked⟓hacked⚁hackedⅫhackedⷿhacked⢉hacked⼵hacked⿑hacked⪯hackedⓀhackedⲓhacked⫤hacked⩏hacked⌴hacked⊍hacked⏕hacked◲hacked⩐hacked⑮hacked⫝̸hacked⾼hacked⠶hacked❺hackedⓨhackedⷮhacked⿚hackedⰰhacked″hacked⡎hacked✇hacked☔hacked₲hacked⩆hacked₃hacked∆hacked⍎hackedↂ
+    positório Git ifdafsdfdo" -ForegroundColor Green
 } else {
-    Write-Host "✅ Repositório Git já existe" -ForegroundColor Green
-}
+    Write-Host "✅ Reposi
 
 # Adicionar todos os arquivos
-git add .
-Write-Host "✅ Arquivos adicionados" -ForegroundColor Green
-
-# Fazer commit
-git commit -m "Initial commit - Function Plus Landing Page"
-Write-Host "✅ Commit realizado" -ForegroundColor Green
-
-# Renomear branch para main
-git branch -M main
-Write-Host "✅ Branch renomeada para main" -ForegroundColor Green
-
-# Adicionar remote
-git remote remove origin 2>$null
-git remote add origin "https://github.com/$github_user/$repo_name.git"
-Write-Host "✅ Remote configurado" -ForegroundColor Green
-
+git add
+git bran
 Write-Host ""
-Write-Host "⚠️  IMPORTANTE:" -ForegroundColor Yellow
-Write-Host "Antes de continuar, você precisa:"
-Write-Host "1. Criar o repositório '$repo_name' no GitHub"
-Write-Host "2. Acessar: https://github.com/new"
-Write-Host "3. Nome do repositório: $repo_name"
-Write-Host "4. Marcar como 'Public'"
-Write-Host "5. NÃO adicionar README, .gitignore ou LICENSE"
+Write-Host "⚠️⺁hacked┡hacked⿕hacked⿗hackedⰀhackedⵝhacked⡉hacked⼾hacked⒍hacked⌫hacked⽙hackedⰵhacked⣎hacked⛊hacked⻃hacked┾hacked⦯hacked≶hacked⎽hacked⬤hackedⱛhacked◹hacked⦲hacked⺓hacked⫃hacked⢥hacked┽hacked⸹hacked⵮hacked⌘hacked⃔hacked≏hacked⻣hacked⍔hacked⺀hacked⃄hacked⋁hacked⺬hackedⱢhacked⠺hacked⺜hacked℗hacked◚hacked⤎hacked⻰hacked⫖hackedⅣhackedⳭhacked⻮hacked⛱hacked☬hacked➾hacked⠔hacked␥hacked⽕hackedⴏhacked⪅hacked⭀hackedⵊhackedⴱhacked⌼hackedⷝhacked₤hacked✕hacked⟓hacked⚁hackedⅫhackedⷿhacked⢉hacked⼵hacked⿑hacked⪯hackedⓀhackedⲓhacked⫤hacked⩏hacked⌴hacked⊍hacked⏕hacked◲hacked⩐hacked⑮hacked⫝̸hacked⾼hacked⠶hacked❺hackedⓨhackedⷮhacked⿚hackedⰰhacked″hacked⡎hacked✇hacked☔hacked₲hacked⩆hacked₃hacked∆hacked⍎hackedↂ
+
+Write-Host "5. NÃO ad⼻w⣀w⤽w⌖w⃎w⡶w≏w❃w⚲w⯄wⷽw⣔w⤃w⹬w⋉w⫇w⽖w⡿w⣳w⸪  
+⺜w⤕w⃥w◂w⽄w⮈w⦻w₉w⬳w⬞w′w⽘w╮w⾼w⪒w⫸w⛭w⑈w⽻w⪦  
+⢀wⱣw⸆w⤤w⹰wⵙw⸄w⇵w⮧w⢴w⍡w↰w☔w◊w∵w⭆w℔wⒹwⴀw␔  
+➫w┎w◅w⭼w⠩w⬀w⡙w⁶w␬w⼣w≰w⌒w⫗w⯦w⧈w␒wℍw∴w⯘w⨩  
+⥨w⌋w⊃w⮥w≥w₏w☻w⎭w⿩wⅦw⾾wⰰw≷w⿵w⬡wⷅw∑w⼍w⮦w⦣icionar README, .gitignore ou LICENSE"
 Write-Host ""
 
-Read-Host "Pressione ENTER quando o repositório estiver criado"
+Read-Host "Pression⼻w⣀w⤽w⌖w⃎w⡶w≏w❃w⚲w⯄wⷽw⣔w⤃w⹬w⋉w⫇w⽖w⡿w⣳w⸪  
+⺜w⤕w⃥w◂w⽄w⮈w⦻w₉w⬳w⬞w′w⽘w╮w⾼w⪒w⫸w⛭w⑈w⽻w⪦  
+⢀wⱣw⸆w⤤w⹰wⵙw⸄w⇵w⮧w⢴w⍡w↰w☔w◊w∵w⭆w℔wⒹwⴀw␔  
+➫w┎w◅w⭼w⠩w⬀w⡙w⁶w␬w⼣w≰w⌒w⫗w⯦w⧈w␒wℍw∴w⯘w⨩  
+⥨w⌋w⊃w⮥w≥w₏w☻w⎭w⿩wⅦw⾾wⰰw≷w⿵w⬡wⷅw∑w⼍w⮦w⦣e ENTER quando o repositório estiver criado"
 
 Write-Host ""
 Write-Host "📤 Enviando para GitHub..." -ForegroundColor Blue
 
 # Push para o GitHub
 try {
-    git push -u origin main
+    git push ⼻w⣀w⤽w⌖w⃎w⡶w≏w❃w⚲w⯄wⷽw⣔w⤃w⹬w⋉w⫇w⽖w⡿w⣳w⸪  
+⺜w⤕w⃥w◂w⽄w⮈w⦻w₉w⬳w⬞w′w⽘w╮w⾼w⪒w⫸w⛭w⑈w⽻w⪦  
+⢀wⱣw⸆w⤤w⹰wⵙw⸄w⇵w⮧w⢴w⍡w↰w☔w◊w∵w⭆w℔wⒹwⴀw␔  
+➫w┎w◅w⭼w⠩w⬀w⡙w⁶w␬w⼣w≰w⌒w⫗w⯦w⧈w␒wℍw∴w⯘w⨩  
+⥨w⌋w⊃w⮥w≥w₏w☻w⎭w⿩wⅦw⾾wⰰw≷w⿵w⬡wⷅw∑w⼍w⮦w⦣⼻w⣀w⤽w⌖w⃎w⡶w≏w❃w⚲w⯄wⷽw⣔w⤃w⹬w⋉w⫇w⽖w⡿w⣳w⸪  
+⺜w⤕w⃥w◂w⽄w⮈w⦻w₉w⬳w⬞w′w⽘w╮w⾼w⪒w⫸w⛭w⑈w⽻w⪦  
+⢀wⱣw⸆w⤤w⹰wⵙw⸄w⇵w⮧w⢴w⍡w↰w☔w◊w∵w⭆w℔wⒹwⴀw␔  
+➫w┎w◅w⭼w⠩w⬀w⡙w⁶w␬w⼣w≰w⌒w⫗w⯦w⧈w␒wℍw∴w⯘w⨩  
+⥨w⌋w⊃w⮥w≥w₏w☻w⎭w⿩wⅦw⾾wⰰw≷w⿵w⬡wⷅw∑w⼍w⮦w⦣-u origin main
     Write-Host ""
-    Write-Host "🎉 SUCESSO! Landing page enviada para o GitHub!" -ForegroundColor Green
-    Write-Host ""
-    Write-Host "📋 Próximos passos:"
-    Write-Host "1. Acesse: https://github.com/$github_user/$repo_name"
-    Write-Host "2. Vá em Settings > Pages"
-    Write-Host "3. Em 'Source', selecione: Branch 'main', Folder '/ (root)'"
-    Write-Host "4. Clique em 'Save'"
-    Write-Host ""
-    Write-Host "🌐 Seu site estará disponível em:"
-    Write-Host "https://$github_user.github.io/$repo_name/" -ForegroundColor Cyan
-    Write-Host ""
-    Write-Host "✨ Deploy concluído com sucesso!" -ForegroundColor Green
-} catch {
-    Write-Host ""
-    Write-Host "❌ Erro ao enviar para o GitHub" -ForegroundColor Yellow
-    Write-Host ""
-    Write-Host "Possíveis soluções:"
-    Write-Host "1. Verifique se o repositório foi criado no GitHub"
-    Write-Host "2. Verifique suas credenciais do Git"
-    Write-Host "3. Execute manualmente: git push -u origin main"
+    Write-Host "🎉
 }
